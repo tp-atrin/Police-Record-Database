@@ -1,0 +1,21 @@
+07.08.2023-12:40, Neunkircher str.80, Robbery, 2, 1
+08.08.2023-12:00, Main Street, Robbery, 1, 2
+23.08.2023-14:30, Park Avenue, Assault, 2, 3
+15.07.2023-16:15, Elm Street, Burglary, 3, 4
+19.09.2023-10:20, Oak Avenue, Drug Trafficking, 4, 5
+02.05.2023-08:30, Pine Lane, Theft, 3, 6
+11.12.2023-19:00, Maple Lane, Robbery, 5, 7
+30.10.2023-14:50, Cedar Street, Assault, 1, 8
+14.03.2023-09:10, Elm Street, Theft, 1, 9
+28.08.2023-20:30, Oak Avenue, Robbery, 2, 10
+05.06.2023-17:40, Pine Lane, Assault, 4, 11
+09.01.2023-13:25, Maple Avenue, Burglary, 3, 12
+22.10.2023-11:15, Elm Street, Assault, 2, 13
+07.04.2023-18:55, Oak Lane, Theft, 5, 14
+03.09.2023-23:30, Pine Street, Robbery, 4, 15
+20.05.2023-15:05, Cedar Avenue, Assault, 2, 16
+12.11.2023-08:00, Elm Lane, Kidnapping, 1, 17
+04.01.2023-21:30, Oak Street, Robbery, 4, 18
+26.08.2023-10:10, Pine Avenue, Assault, 4, 19
+31.03.2023-12:20, Cedar Lane, Theft, 5, 20
+09.08.2023-1:44, first street.50, Money Laundering, 4, 21
